@@ -1,2 +1,3 @@
 # fictional-happiness
 A great life, starts with a great mind. 
+Hello GLOBAL, i like coding and want to code my life...
